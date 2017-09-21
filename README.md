@@ -21,5 +21,10 @@ Notes:
 After git checkout, switch to directory and
 
 * `npm install`
-* `npm run dev`
+* `npm run build`
 * `composer install`
+
+Once initial build is done, use `npm run watch`.
+
+## Copyright/ License/ Etc.
+(c) 2017 Josh Pollock for CalderaWP LLC. Licensed under the terms of th GNU GPL v2+. Please share with your neighbor or spcial media followers.
