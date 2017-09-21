@@ -42,7 +42,6 @@
 				this.inPreview = false;
 				this.currentPost = {};
 				this.previewFeatured = '';
-
 			}
 		},
 		data(){
