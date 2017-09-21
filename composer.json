@@ -1,0 +1,20 @@
+{
+    "name": "caldera-learn/vue-widgets",
+    "type": "wordpress-plugin",
+    "license": "GPLv2+",
+    "authors": [
+        {
+            "name": "Josh Pollock",
+            "email": "Josh@calderawp.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "pimple/pimple": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "calderaLearn\\VueWidget\\": "classes"
+        }
+    }
+}
